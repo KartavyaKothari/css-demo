@@ -1,3 +1,45 @@
-body{
+p{
     background: green;
+    color:#802196;
+    text-align: center;
+    font-style: italic;
+}
+
+body{
+    background: cyan;
+    line-height: 2;
+    text-align: center;
+}
+
+li{
+    font-size: 20px;
+    text-decoration: line-through;
+    font-weight: 100;
+}
+
+h1{
+    border: 3px solid black;
+    margin: 10px 20px 30px 50px;
+    padding: 0px;
+}
+
+ul{
+    list-style-type: square;
+    list-style-position: inside;
+}
+
+ol{
+    list-style-type: simp-chinese-formal;
+}
+
+#favLang{
+    color: blue;
+}
+
+.green{
+    font-size: 3em;
+}
+
+.koala{
+    text-align: right;
 }
